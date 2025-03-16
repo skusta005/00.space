@@ -136,7 +136,7 @@ order: -7
 found by discord userid: 784354759841939506
  ```json
  {
-     "DFIntUnstickForceAttackInTenths": "-4"
+     "DFIntMaximumUnstickForceInGs": "-10"
  }
  ```
 ### Network Ownership
