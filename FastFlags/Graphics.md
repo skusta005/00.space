@@ -274,7 +274,7 @@ order: -3
 > 1-4 Blurry, 5-7 low quality also removes studs, 8 Removes almost everything
 ```json
 {
-    "FIntDebugTextureManagerSkipMips": "-1"
+    "FIntDebugTextureManagerSkipMips": "8"
 }
 ```
 ### Remove Grass
