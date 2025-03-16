@@ -3,6 +3,9 @@ title: Abusive
 icon: alert-fill
 order: -7
 ---
+> [!WARNING]
+> FastFlags are not bannable by Roblox, but abusing them can get you banned from certain games.
+
 ### Teleport All Ragdolls/Unanchored to 0, 0, 0
 > [!NOTE]
 > Clientsided
