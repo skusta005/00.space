@@ -20,19 +20,9 @@ icon: devices
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
-## :icon-question: Android Rootless Roblox (MT Manager) How to Use:
+## ~~:icon-question: Android Roblox How to Use:~~
 > [!CAUTION]
-> Roblox is implementing anti-tamper measures on mobile. Proceed at your own risk.
-
-1. **Download a Roblox APK** file from a trusted source. 
-2. **Open MT Manager** and navigate to the **Roblox APK** file.
-3. Tap on the APK and select **View**. `/assets` >> `main.1.com.roblox.client.obb` and click on it then **Archive Viewer**.
-4. Create a new folder named **`ClientSettings`**.
-5. Place your **`ClientAppSettings.json`** file inside the `ClientSettings` folder. (You can use ChatGPT to help format JSON files for clarity if needed)
-6. Tap on the back button (`..`) to exit the archive. It will prompt you to update the file `main.1.com.roblox.client.obb`—click **OK**.
-7. Long-press the **Roblox APK** file, choose **Sign File**, and click **OK** with default settings.
-8. **Install the modified APK.**
-###### This process must be repeated whenever a new Roblox build is released, as the modifications will not carry over to new updates.
+> HYPERION IS PRESENT DO NOT MESS WITH IT
 
 ## :icon-question: How to Use _PlaceFilter
 1. **Add** `_PlaceFilter` **after** the **Fast Flag name**.
