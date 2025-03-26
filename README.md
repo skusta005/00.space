@@ -1,8 +1,14 @@
+<!--
+---
+visibility: hidden
+---
+-->
+
 <h3 align="center">
-  <img src="assets/pbc.gif" width="256" alt="Playboi Carti">
+  <img src="assets/cartikiss.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">FastFlags Archive</h1>
+<h1 align="center">FastFlags.$pace Archive</h1>
 
 <div align="center">
 
