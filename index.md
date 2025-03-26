@@ -9,7 +9,7 @@ date: 2023-08-26
 ---
 
 > [!NOTE]
-> If you find our repository useful bookmark it so you never lose it!
+> If you find our site useful bookmark it so you never lose it!
 
 <div align="center">
   <img src="assets/cartizest.gif" width="512" alt="YVL">
