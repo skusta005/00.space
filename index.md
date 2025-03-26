@@ -8,8 +8,9 @@ authors:
 date: 2023-08-26
 ---
 
-> [!NOTE]
-> If you find our site useful bookmark it so you never lose it!
+!!!contrast Welcome
+If you find our site useful bookmark it so you never lose it!
+!!!
 
 <div align="center">
   <img src="assets/cartizest.gif" width="512" alt="YVL">
