@@ -6,7 +6,7 @@ layout: blog
 authors:
   - name: skusta005
     link: https://github.com/skusta005
-    avatar: assets/album.gif
+    avatar: assets/ALBUM.gif
 date: 2025-02-01
 ---
 
@@ -19,11 +19,110 @@ Released: 2025-03-14
 
 </div>
 
-disappointing changes ion even bother listing
++++ :icon-sparkle-fill: New
+- [x] Test 1
+- [x] Test 2
+- [ ] Test 3
+- [x] Test 4
+- [x] Test 5
+- [ ] Test 6
+- [x] Test 7
+- [x] Test 8
+- [ ] Test 9
+- [x] Test 10
+- [x] Test 11
+- [ ] Test 12
+- [x] Test 13
+- [x] Test 14
+- [ ] Test 15
+- [x] Test 16
+- [x] Test 17
+- [ ] Test 18
+- [x] Test 19
+- [x] Test 20
+- [ ] Test 21
+- [x] Test 22
+- [x] Test 23
+- [ ] Test 24
 
-$$
-\displaystyle {1 +  \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots }= \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})}, \quad\quad \text{for }\lvert q\rvert<1.
-$$
++++ :icon-thumbsup: Improved
+- [x] Test 1
+- [x] Test 2
+- [ ] Test 3
+- [x] Test 4
+- [x] Test 5
+- [ ] Test 6
+- [x] Test 7
+- [x] Test 8
+- [ ] Test 9
+- [x] Test 10
+- [x] Test 11
+- [ ] Test 12
+- [x] Test 13
+- [x] Test 14
+- [ ] Test 15
+- [x] Test 16
+- [x] Test 17
+- [ ] Test 18
+- [x] Test 19
+- [x] Test 20
+- [ ] Test 21
+- [x] Test 22
+- [x] Test 23
+- [ ] Test 24
+
++++ :icon-bug: Fixed
+- [x] Test 1
+- [x] Test 2
+- [ ] Test 3
+- [x] Test 4
+- [x] Test 5
+- [ ] Test 6
+- [x] Test 7
+- [x] Test 8
+- [ ] Test 9
+- [x] Test 10
+- [x] Test 11
+- [ ] Test 12
+- [x] Test 13
+- [x] Test 14
+- [ ] Test 15
+- [x] Test 16
+- [x] Test 17
+- [ ] Test 18
+- [x] Test 19
+- [x] Test 20
+- [ ] Test 21
+- [x] Test 22
+- [x] Test 23
+- [ ] Test 24
+
++++ :icon-trash: Removed
+- [x] Test 1
+- [x] Test 2
+- [ ] Test 3
+- [x] Test 4
+- [x] Test 5
+- [ ] Test 6
+- [x] Test 7
+- [x] Test 8
+- [ ] Test 9
+- [x] Test 10
+- [x] Test 11
+- [ ] Test 12
+- [x] Test 13
+- [x] Test 14
+- [ ] Test 15
+- [x] Test 16
+- [x] Test 17
+- [ ] Test 18
+- [x] Test 19
+- [x] Test 20
+- [ ] Test 21
+- [x] Test 22
+- [x] Test 23
+- [ ] Test 24
++++
 
 
 <div align="center">
