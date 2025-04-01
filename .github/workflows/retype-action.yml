@@ -1,28 +1,28 @@
-name: Clone to Testing Branch
-
+name: Publish Retype powered website to GitHub Pages
 on:
+  workflow_dispatch:
   push:
     branches:
-      - "*"
+      - master
 
 jobs:
-  clone-to-testing:
+  publish:
+    name: Publish to retype branch
+
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout current branch
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v1
         with:
-          fetch-depth: 0
-      
-      - name: Get current branch name
-        id: branch_name
-        run: echo "BRANCH_NAME=$(git rev-parse --abbrev-ref HEAD)" >> $GITHUB_ENV
-      
-      - name: Create testing branch with current files but no history
-        run: |
-          git checkout --orphan testing
-          git rm -rf .
-          git checkout $BRANCH_NAME -- .
-          git add .
-          git commit -m "Initialized testing branch with latest files"
-          git push --force origin testing
+          dotnet-version: 7.0.x
+
+      - uses: retypeapp/action-build@latest
+
+      - uses: retypeapp/action-github-pages@latest
+        with:
+          update-branch: true
