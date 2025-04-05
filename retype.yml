@@ -6,8 +6,8 @@ breadcrumb:
   home: ":icon-home:"
   separator: "|"
 branding:
-  title: "FastFlags.Space"
-  label: I AM MUSIC
+  title: "fastflags"
+  label: ".space"
   logo: assets/allred.gif
   logoDark: assets/album.gif
 links:
