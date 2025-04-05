@@ -120,15 +120,7 @@ order: -7
     "DFIntMaxMissedWorldStepsRemembered": "1000"
 }
 ```
-### Noclip 1
-> [!TIP]
-> **Adjust the value so you don't fall through the ground**
-```json
-{
-    "DFIntSimBroadPhasePairCountMax": "50"
-}
-```
-### Noclip 2/Mesh Noclip ✨
+### Mesh Noclip ✨
 @tyetonix
 ```json
 {
