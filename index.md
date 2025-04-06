@@ -35,7 +35,7 @@ If you find our site useful bookmark it so you never lose it!
 
 #### :icon-info: This is a collaborative effort to maintain an organized list of FastFlags
 
-:icon-book: 213 Currently Listed [!badge variant="info" text="LATEST"]
+:icon-book: 210 Currently Listed [!badge variant="info" text="LATEST"]
 
 [!ref icon="log"](/logs/changelog.md)
 
