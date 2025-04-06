@@ -15,13 +15,6 @@ Released: 2025-04-06
 
 A lot of changed but are not logged.
 
-### v4.01
-Released: 2025-04-01
-
-</div>
-
-A lot of changed but are not logged.
- 
 <div align="center">
 
 ### v3.3 downfall of fastflags ong
