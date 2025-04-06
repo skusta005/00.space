@@ -8,6 +8,10 @@ authors:
 date: 2023-08-26
 ---
 
+!!!contrast Info
+FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
+!!!
+
 !!!contrast Welcome
 If you find our site useful bookmark it so you never lose it!
 !!!
