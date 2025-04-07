@@ -8,7 +8,7 @@ date: 2025-04-01
 
 <div align="center">
 
-### v4.06 [!badge variant="info" text="LATEST"]
+### v4.07 [!badge variant="info" text="LATEST"]
 Released: 2025-04-06
 
 </div>
