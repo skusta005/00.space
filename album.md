@@ -1,9 +1,9 @@
 ---
 title: I AM MUSIC
-visibility: hidden
 date: 2025-03-14
 description: Playboi Carti
-icon: archive
+icon: video
+order: -3
 ---
 
 <div align="center">
@@ -44,4 +44,4 @@ icon: archive
 33. BACKR00MS
 34. FOMDJ
 
-[!embed width="0" height="0"](https://www.youtube.com/embed?listType=playlist&list=OLAK5uy_m96K8Z9jQWVnWK3YJ5vwVfWtBK9ohJbus&autoplay=1)
+[!embed width="400" height="400"](https://www.youtube.com/embed?listType=playlist&list=OLAK5uy_m96K8Z9jQWVnWK3YJ5vwVfWtBK9ohJbus&autoplay=1)
