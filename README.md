@@ -77,7 +77,7 @@ If you have questions or suggestions, feel free to open an issue or reach out! T
 
 [shield-discord-server]: https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff
 
-[repo-license]:  https://github.com/fastdotspace/fastflags.space/blob/main/LICENSE
+[repo-license]:  https://github.com/fastdotspace/fastflags.space/blob/master/LICENSE
 [repo-actions]:  https://github.com/fastdotspace/fastflags.space/actions
 
 [discord-invite]:  https://discord.gg/6zqNQTSkr
