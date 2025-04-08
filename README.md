@@ -12,7 +12,6 @@ visibility: hidden
 
 <div align="center">
 
-[![License][shield-repo-license]][repo-license]
 [![GitHub Workflow Status][shield-repo-workflow]][repo-actions]
 [![Discord][shield-discord-server]][discord-invite]
 
