@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: web.fastflags.space
+url: dev.fastflags.space
 breadcrumb:
   enabled: true
   home: ":icon-home:"
