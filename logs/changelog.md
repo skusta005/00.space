@@ -8,7 +8,7 @@ date: 2025-04-01
 
 <div align="center">
 
-### v4.10 NOT FLAG RELATED [!badge variant="info" text="LATEST"]
+### v4.10.1 NOT FLAG RELATED [!badge variant="info" text="LATEST"]
 Released: 2025-04-10
 
 </div>
@@ -19,6 +19,9 @@ Released: 2025-04-10
 - [x] **`todo.fastflags.space`**
 - [x] **`web.fastflags.space`**
 - [x] **`1.fastflags.space`**
++++ :icon-trash: Removed
+- [x] **`ai.fastflags.space`**
+- [x] **`todo.fastflags.space`**
 +++
 
 <div align="center">
