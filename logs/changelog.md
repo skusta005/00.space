@@ -8,6 +8,21 @@ date: 2025-04-01
 
 <div align="center">
 
+### v4.10 NOT FLAG RELATED [!badge variant="info" text="LATEST"]
+Released: 2025-04-10
+
+</div>
+
++++ :icon-sparkle-fill: New [Subdomains]
+- [x] **`dev.fastflags.space`**
+- [x] **`ai.fastflags.space`**
+- [x] **`todo.fastflags.space`**
+- [x] **`web.fastflags.space`**
+- [x] **`1.fastflags.space`**
++++
+
+<div align="center">
+
 ### v4.07 [!badge variant="info" text="LATEST"]
 Released: 2025-04-06
 
