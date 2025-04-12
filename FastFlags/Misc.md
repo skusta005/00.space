@@ -120,6 +120,14 @@ order: -8
     "FFlagDebugEnableOctreeValidation": "True"
 }
 ```
+### _crash
+> [!IMPORTANT]
+> **Studio Only**
+```json
+{
+    "FFlagDebugCrashEnabled": "False"
+}
+```
 ### Self Explanatory 1
 ```json
 {
