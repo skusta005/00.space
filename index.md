@@ -8,6 +8,12 @@ authors:
 date: 2023-08-26
 ---
 
+<div align="center">
+
+![GitHub Repo stars](https://img.shields.io/github/stars/fastdotspace/fastflags.space?style=social)
+
+</div>
+
 !!!contrast Info
 FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
 !!!
