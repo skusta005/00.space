@@ -108,11 +108,18 @@ order: -8
     "DFIntS2PhysicsSenderRate": "10000"
 }
 ```
-### Invisible
+### Invisible 1
 ```json
 {
     "DFIntGameNetOptimizeParallelPhysicsSendAssemblyBatch": "-1",
     "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "-1"
+}
+```
+### Invisible 2
+```json
+{
+    "DFIntPhysicsSenderMaxBandwidthBps": "1",
+    "DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
 }
 ```
 ### Clientsided Invisible
@@ -132,6 +139,13 @@ order: -8
 ```json
 {
     "DFIntPhysicsDecompForceUpgradeVersion": "1500"
+}
+```
+### Slide on Terrain/Meshes
+@tyetonix
+```json
+{
+    "DFIntSmoothTerrainPhysicsRayAabbSlop": "-9999"
 }
 ```
 ### Wallglide ✨
