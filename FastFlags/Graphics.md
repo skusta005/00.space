@@ -203,6 +203,16 @@ order: -3
     "FFlagDebugSkyGray": "True"
 }
 ```
+### White Sky
+@kezcn
+> [!IMPORTANT]
+> **Only applies to games with the default skybox**
+```json
+{
+    "FFlagDebugSkyGray": "True",
+    "FFlagSkyUseRGBEEncoding": "True",
+}
+```
 ### Force LOD on Meshes
 ```json
 {
