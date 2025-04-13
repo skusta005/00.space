@@ -140,6 +140,14 @@ order: -8
     "DFIntSmoothTerrainPhysicsRayAabbSlop": "-9999"
 }
 ```
+==- Ability to walk
+```json
+{
+    "DFIntSmoothTerrainPhysicsRayAabbSlop": "-9999",
+    "DFIntMaximumFreefallMoveTimeInTenths": "2147483647"
+}
+```
+===
 ### Wallglide ✨
 found by discord userid: 784354759841939506
  ```json
