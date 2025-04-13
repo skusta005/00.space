@@ -39,19 +39,11 @@ order: -8
     "DFFlagAnimatorPostProcessIK": "True"
 }
 ```
-### Random High Jumps
-```json
-{
-    "FFlagSimAdaptiveTimesteppingDefault2": "True",
-    "DFFlagSimHumanoidTimestepModelUpdate": "True"
-}
-```
 ### Drunk
 ```json
 {
     "FFlagSimAdaptiveTimesteppingDefault2": "True",
-    "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
-    "DFFlagSimHumanoidTimestepModelUpdate": "True"
+    "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999"
 }
 ```
 ### No Animations ✨
