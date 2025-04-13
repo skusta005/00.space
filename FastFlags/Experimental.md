@@ -3,11 +3,8 @@ title: Experimental/Testing
 icon: ai-model
 order: -6
 ---
-
-<div align="center">
-  <img src="assets/fineshyt.gif" width="512" alt="YVL">
   
-# PAGE IN PROGRESS
+# FEATURES THAT ARE PROBABLY COMING SOON
 
 </div>
 
