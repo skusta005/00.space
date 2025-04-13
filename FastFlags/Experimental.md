@@ -3,10 +3,6 @@ title: Experimental/Testing
 icon: ai-model
 order: -6
 ---
-  
-# FEATURES THAT ARE PROBABLY COMING SOON
-
-</div>
 
 ### Voicechat in Party
 > [!NOTE]
