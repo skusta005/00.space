@@ -210,7 +210,7 @@ order: -3
 ```json
 {
     "FFlagDebugSkyGray": "True",
-    "FFlagSkyUseRGBEEncoding": "True",
+    "FFlagSkyUseRGBEEncoding": "True"
 }
 ```
 ### Force LOD on Meshes
