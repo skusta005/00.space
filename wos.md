@@ -1,6 +1,5 @@
 ---
 title: Wall of Shame
-icon: clown_face
 order: -2
 authors:
   - name: Farrelle
