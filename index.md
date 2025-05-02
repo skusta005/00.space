@@ -7,6 +7,14 @@ authors:
     avatar: assets/fastdotspace.jpg
 date: 2023-08-26
 ---
+![](assets/header.jpg)
+
+<div align="center">
+
+# FastFlags.$pace
+<a href="https://discord.gg/6zqNQTSkrg">
+  <img src="https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff" width="156" alt="Join Discord">
+  </a>
 
 !!!contrast Info
 FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
@@ -15,16 +23,6 @@ FastFlags are internal settings to quickly turn features on or off without needi
 !!!contrast Welcome
 If you find our site useful bookmark it so you never lose it!
 !!!
-
-![](assets/header.jpg)
-
-<div align="center">
-
-# FastFlags.$pace
-
-<a href="https://discord.gg/6zqNQTSkrg">
-  <img src="https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff" width="156" alt="Join Discord">
-  </a>
 
 </div>
 
