@@ -7,6 +7,11 @@ authors:
     avatar: assets/fastdotspace.jpg
 date: 2023-08-26
 ---
+
+!!!contrast Info
+FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
+!!!
+
 ![](assets/header.jpg)
 
 <div align="center">
@@ -17,15 +22,6 @@ date: 2023-08-26
   </a>
 
 </div>
-
-
-
-!!!contrast Info
-FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
-!!!
-
-> [!CAUTION]
-> **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 <div align="center">
 
