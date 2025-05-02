@@ -16,11 +16,11 @@ FastFlags are internal settings to quickly turn features on or off without needi
 If you find our site useful bookmark it so you never lose it!
 !!!
 
+![](assets/header.jpg)
+
 <div align="center">
-  <img src="assets/cartizest.gif" width="512" alt="YVL">
 
-
-<h1 align="center">FastFlags.$pace Archive</h1>
+# FastFlags.$pace
 
 <a href="https://discord.gg/6zqNQTSkrg">
   <img src="https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff" width="156" alt="Join Discord">
