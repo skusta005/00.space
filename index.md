@@ -16,6 +16,8 @@ date: 2023-08-26
   <img src="https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff" width="156" alt="Join Discord">
   </a>
 
+</div>
+
 !!!contrast Info
 FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
 !!!
@@ -23,8 +25,6 @@ FastFlags are internal settings to quickly turn features on or off without needi
 !!!contrast Welcome
 If you find our site useful bookmark it so you never lose it!
 !!!
-
-</div>
 
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
