@@ -39,6 +39,11 @@ If you find our site useful bookmark it so you never lose it!
 
 [!ref icon="log"](/logs/changelog.md)
 
+!!!info  Announcement
+![image](https://github.com/user-attachments/assets/7a048099-2a02-46c5-98bd-d9633e0d7804)
+!!!
+
+
 </div>
 
 
