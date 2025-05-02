@@ -7,8 +7,11 @@ authors:
     avatar: assets/fastdotspace.jpg
 date: 2023-08-26
 ---
+<div align="center">
 
-#### :icon-info: This is a collaborative effort to maintain an organized list of FastFlags
+:icon-info: This is a collaborative effort to maintain an organized list of FastFlags
+
+</div>
 
 !!!contrast Info
 FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
@@ -25,16 +28,17 @@ FastFlags are internal settings to quickly turn features on or off without needi
 
 </div>
 
+### 
+
 <div align="center">
-
-:icon-book: 205 Currently Listed [!badge variant="info" text="LATEST"]
-
-[!ref icon="log"](/logs/changelog.md)
 
 !!!info  Announcement
 ![image](https://github.com/user-attachments/assets/7a048099-2a02-46c5-98bd-d9633e0d7804)
 !!!
 
+:icon-book: 205 Currently Listed [!badge variant="info" text="LATEST"]
+
+[!ref icon="log"](/logs/changelog.md)
 
 </div>
 
