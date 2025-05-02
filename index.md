@@ -41,10 +41,3 @@ FastFlags are internal settings to quickly turn features on or off without needi
 [!ref icon="log"](/logs/changelog.md)
 
 </div>
-
-
-<div align="center">
-
-![GitHub Repo stars](https://img.shields.io/github/stars/fastdotspace/fastflags.space?style=social)
-
-</div>
