@@ -3,8 +3,11 @@ title: Presets
 icon: project-template
 order: -9
 ---
+<div align="center">
 
 :icon-codescan-checkmark: Please read each line before importing
+
+</div>
 
 ### :icon-sparkles-fill: High Quality
 ```json
