@@ -6,18 +6,46 @@ layout: blog
 date: 2025-04-01
 ---
 
+<div align="center">
+
+### v5.04 [!badge variant="info" text="LATEST"]
+Released: 2025-05-04
+
+</div>
+
++++ :icon-sparkle-fill: New 
+- [x] **`High Quality Preset`**
+- [x] **`Low Quality Preset`**
++++ :icon-pencil: Renamed
+- [x] **`Custom MicroProfile Scale` to `Custom MicroProfile Size`**
+- [x] **`Hides gui` to `Hides Gui`**
+- [x] **`Dont Render UI` to `Hides Gui 2`**
+- [x] **`Dont Render Screen GUIs` to `Hides Gui 3`**
+- [x] **`Preset Folder` to `Preset.md`**
++++ :icon-bug: Fixed
+- [x] **`JSON Formatting`**
++++ :icon-thumbsup: Improved
+- [x] **`Presets Formatting`**
++++ :icon-trash: Removed
+- [x] **`THICK Healthbar`**
+- [x] **`Revert "Charts" back to Discovery`**
+- [x] **`Disable Sidebar`**
+- [x] **`Revert new invite menu`**
+- [x] **`Revert spacing on errors`**
+- [x] **`Presets`**
++++
 
 <div align="center">
 
-### v4.11 NOT FLAG RELATED [!badge variant="info" text="LATEST"]
+### v4.11 [!badge variant="info" text="LATEST"]
 Released: 2025-04-11
 
 </div>
 
-+++ :icon-sparkle-fill: New [Subdomains]
++++ :icon-sparkle-fill: New
 - [x] **`Invisible Return`**
 +++ :icon-trash: Removed
-- [ ] **Removed FastFlags no longer working**
+- [x] **Removed FastFlags no longer working**
 +++
 
 
