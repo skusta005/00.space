@@ -1,5 +1,4 @@
 ---
-title: Information
 icon: rel-file-path	
 authors:
   - name: Farrelle
@@ -8,6 +7,8 @@ authors:
 date: 2023-08-26
 ---
 <div align="center">
+ 
+# Information
 
 :icon-info: This is a collaborative effort to maintain an organized list of FastFlags
 
