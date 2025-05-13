@@ -7,7 +7,7 @@ breadcrumb:
   separator: "|"
 branding:
   title: "fastflags.space"
-  logo: assets/white.gif
+  logo: assets/spinning_disc.gif
   logoDark: assets/dark.gif
 links:
 - text: Repository
