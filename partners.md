@@ -1,4 +1,5 @@
 ---
+title: Promo
 icon: heart-fill
 order: -3
 ---
