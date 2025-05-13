@@ -1,9 +1,8 @@
 ---
-title: useless
+title: Trash
 icon: trash
 order: -11
 ---
-# :icon-trash: lol
 
 ### spammed
 ```json
@@ -60,5 +59,3 @@ order: -11
     "DFIntDataSenderMaxBandwidthBps": "150"
 }
 ```
-
-# :icon-gear: Debug
