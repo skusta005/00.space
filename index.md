@@ -4,7 +4,7 @@ icon: rel-file-path
 authors:
   - name: Farrelle
     link: https://twitter.com/caffe_soft
-    avatar: assets/fastdotspace.jpg
+    avatar: https://slattist.fastflags.space/slattist.png
 date: 2023-08-26
 ---
 
