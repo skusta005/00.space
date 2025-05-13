@@ -21,12 +21,6 @@ FastFlags are internal settings to quickly turn features on or off without needi
   <img src="https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff" width="156" alt="Join Discord">
   </a>
 
-</div>
-
-### 
-
-<div align="center">
-  
 :icon-book: 205 Currently Listed [!badge variant="info" text="LATEST"]
 
 [!ref icon="log"](/logs/changelog.md)
