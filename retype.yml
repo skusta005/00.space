@@ -8,7 +8,7 @@ breadcrumb:
 branding:
   title: "fastflags.space"
   logo: assets/white.gif
-  logoDark: assets/005.gif
+  logoDark: assets/005.jpg
 links:
 - text: Repository
   link: https://github.com/fastdotspace/fastflags.space
