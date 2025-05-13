@@ -1,4 +1,5 @@
 ---
+title: Information
 icon: rel-file-path	
 authors:
   - name: Farrelle
@@ -6,14 +7,6 @@ authors:
     avatar: assets/fastdotspace.jpg
 date: 2023-08-26
 ---
-
-<div align="center">
- 
-# Information
-
-:icon-info: This is a collaborative effort to maintain an organized list of FastFlags
-
-</div>
 
 !!!contrast Info
 FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
